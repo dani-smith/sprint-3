@@ -1,0 +1,2 @@
+In the getskeleton site, the page is setup in a way to be responsive to the screen size being used. In the instance of a desktop view, the columns will lay side by side on the page whereas in the mobile view, these columns will appear stacked on top of one another.
+The @media query is used with a 'max width' attribute to determine when the display would change formats
